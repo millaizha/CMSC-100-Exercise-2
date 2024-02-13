@@ -2,6 +2,15 @@
 
 
 Full Name: Millaizha Airabellha Valencia
+
 Degree Program: BS Computer Science
-Live Website link: 
-What are your key takeaways from this exercise?
+
+Live Website link: https://millaizha.github.io/CMSC-100-Exercise-2/
+
+Steps on how to create a GitHub page:
+
+1. Go to the Repo settings and select pages
+2. Under Build and Deployment, choose a branch to deploy then save.
+3. Wait until a link shows up.
+
+What are your key takeaways from this exercise? I learned how to create a basic website using HTML and CSS
